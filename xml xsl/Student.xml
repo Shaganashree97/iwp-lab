@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<students>
+  <student>
+    <name>
+      <firstname>Shagana</firstname>
+      <lastname>P L</lastname>
+    </name>
+    <address>
+      <street>101 South Street</street>
+      <city>Halifax</city>
+      <email>shagana@kct.ac.in</email>
+      <phone>4940001</phone>
+    </address>
+  </student>
+  <student>
+    <name>
+      <firstname>Shree</firstname>
+      <lastname>P L</lastname>
+    </name>
+    <address>
+      <street>202 Victoria Road</street>
+      <city>Dartmouth</city>
+      <email>shree@google.com</email>
+      <phone>4940002</phone>
+    </address>
+  </student>
+</students>
