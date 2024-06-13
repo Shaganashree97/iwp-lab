@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns="http://www.javatpoint.com"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.javatpoint.com employee.xsd">
+
+  <employee id="001">
+    <firstname>Shagana</firstname>
+    <lastname>P L</lastname>
+    <email>shag@google.com</email>
+  </employee>
+  <employee id="002">
+    <firstname>Shree</firstname>
+    <lastname>P L</lastname>
+    <email>sh@google.com</email>
+  </employee>
+
+</employees>
